@@ -1,0 +1,42 @@
+.mynavbar{
+	color: white;
+	background-color: black;
+	font-size: 1em;
+	border: 1px solid black;
+}
+.mytitle{
+	text-decoration: bold;
+	border-radius: 5%;
+}
+.white{
+	color: white;
+}
+a:hover{
+	text-decoration: none;
+	color: white;
+	background-color: #1e3e4a;
+}
+.inline{
+	display: inline;
+}
+.inline:hover{
+	background-color: #1e3e4a;
+}
+.mynavbar_inner{
+	padding-top: 10px;
+}
+.mynav{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.spacetop{
+	height: 20px;
+	width: 100%;
+}
+.mynavbar-collapse{
+	z-index: 999;
+}
+.black{
+	background-color: black;
+	color: white;
+}
